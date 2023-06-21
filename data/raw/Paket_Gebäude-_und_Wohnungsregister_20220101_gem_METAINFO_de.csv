@@ -1,0 +1,102 @@
+Paket Gebäude- und Wohnungsregister - Gemeinde
+Quelle: Statistik Austria
+Datenstand: 2022-01-01
+erstellt am: 2022-08-03
+Es gelten die allgemeingültigen, rechtlichen Hinweise und Copyright-Bestimmungen.
+http://www.statistik.at/web_de/rechtlicher_hinweis/index.html
+http://www.statistik.at/web_de/impressum/index.html
+
+Tabelle;Spalte;Merkmal;Ausprägung
+daten_gwr.v_geb_;geb;Zahl der Gebäude;Anzahl
+daten_gwr.v_geb_;gebmwhg;Zahl der Gebäude mit Wohnungen;Anzahl
+daten_gwr.v_geb_;ntz;Zahl der Nutzungseinheiten;Anzahl
+daten_gwr.v_geb_;wgeb;Zahl der Wohngebäude;Anzahl
+daten_gwr.v_geb_;whg;Zahl der Wohnungen;Anzahl
+daten_gwr.v_geb_;bp_vor1919;Gebäude nach Bauperiode;vor 1919
+daten_gwr.v_geb_;bp_1919b1944;Gebäude nach Bauperiode;1919-1944
+daten_gwr.v_geb_;bp_1945b1960;Gebäude nach Bauperiode;1945-1960
+daten_gwr.v_geb_;bp_1961b1970;Gebäude nach Bauperiode;1961-1970
+daten_gwr.v_geb_;bp_1971b1980;Gebäude nach Bauperiode;1971-1980
+daten_gwr.v_geb_;bp_1981b1990;Gebäude nach Bauperiode;1981-1990
+daten_gwr.v_geb_;bp_1991b2000;Gebäude nach Bauperiode;1991-2000
+daten_gwr.v_geb_;bp_2001b2005;Gebäude nach Bauperiode;2001-2005
+daten_gwr.v_geb_;bp_2006b2010;Gebäude nach Bauperiode;2006-2010
+daten_gwr.v_geb_;bp_2011b2015;Gebäude nach Bauperiode;2011-2015
+daten_gwr.v_geb_;bp_2016b2020;Gebäude nach Bauperiode;2016-2020
+daten_gwr.v_geb_;bp_2021b2025;Gebäude nach Bauperiode;2021-2025
+daten_gwr.v_geb_;bp_unbekannt;Gebäude nach Bauperiode;unbekannt
+daten_gwr.v_geb_;wgeb_1whg;Gebäude nach Gebäudeeigenschaft;Wohngebäude mit einer Wohnung
+daten_gwr.v_geb_;wgeb_2whg;Gebäude nach Gebäudeeigenschaft;Wohngebäude mit zwei Wohnungen
+daten_gwr.v_geb_;wgeb_3pwhg;Gebäude nach Gebäudeeigenschaft;Wohngebäude mit drei oder mehr Wohnungen
+daten_gwr.v_geb_;wgeb_gem;Gebäude nach Gebäudeeigenschaft;Wohngebäude für Gemeinschaften
+daten_gwr.v_geb_;geb_hotel;Gebäude nach Gebäudeeigenschaft;Hotels und ähnliche Gebäude
+daten_gwr.v_geb_;geb_buero;Gebäude nach Gebäudeeigenschaft;Bürogebäude
+daten_gwr.v_geb_;geb_handel;Gebäude nach Gebäudeeigenschaft;Groß- und Einzelhandelsgebäude
+daten_gwr.v_geb_;geb_verkehr;Gebäude nach Gebäudeeigenschaft;Gebäude des Verkehrs- und Nachrichtenwesens
+daten_gwr.v_geb_;geb_indust;Gebäude nach Gebäudeeigenschaft;Industrie- und Lagergebäude
+daten_gwr.v_geb_;geb_kultur;Gebäude nach Gebäudeeigenschaft;Gebäude für Kultur- und Freizeitzwecke, das Bildungs- und Gesundheitswesen sowie Sakralbauten
+daten_gwr.v_geb_;geb_sonst;Gebäude nach Gebäudeeigenschaft;sonstige Bauwerke und Pseudobaulichkeiten
+daten_gwr.v_geb_;geb_unbekannt;Gebäude nach Gebäudeeigenschaft;unbekannt
+daten_gwr.v_geb_;gfl_lt50;Gebäude nach überbauter Grundfläche;unter 50m²
+daten_gwr.v_geb_;gfl_50b74;Gebäude nach überbauter Grundfläche;50 bis unter 75m²
+daten_gwr.v_geb_;gfl_75b99;Gebäude nach überbauter Grundfläche;75 bis unter 100m²
+daten_gwr.v_geb_;gfl_100b149;Gebäude nach überbauter Grundfläche;100 bis unter 150m²
+daten_gwr.v_geb_;gfl_150b249;Gebäude nach überbauter Grundfläche;150 bis unter 250m²
+daten_gwr.v_geb_;gfl_250b499;Gebäude nach überbauter Grundfläche;250 bis unter 500m²
+daten_gwr.v_geb_;gfl_500b999;Gebäude nach überbauter Grundfläche;500 bis unter 1.000m²
+daten_gwr.v_geb_;gfl_ge1000;Gebäude nach überbauter Grundfläche;1.000m² und mehr
+daten_gwr.v_geb_;gfl_unbekannt;Gebäude nach überbauter Grundfläche;unbekannt
+daten_gwr.v_geb_;rwg_01b02;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Reine Wohngebäude (100% Wohnnutzung): mit 1 oder 2 Wohnungen
+daten_gwr.v_geb_;rwg_03b10;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Reine Wohngebäude (100% Wohnnutzung): mit 3 bis 10 Wohnungen
+daten_gwr.v_geb_;rwg_11b20;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Reine Wohngebäude (100% Wohnnutzung): mit 11 bis 20 Wohnungen
+daten_gwr.v_geb_;rwg_21p;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Reine Wohngebäude (100% Wohnnutzung): mit 21 oder mehr Wohnungen
+daten_gwr.v_geb_;rwg_gem;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Reine Wohngebäude für Gemeinschaften (inkl. sonstiger Wohnnutzung)
+daten_gwr.v_geb_;wgnn_01b02;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Wohngebäude mit Nebennutzung (>= 50% Wohnnutzung): mit 1 oder 2 Wohnungen
+daten_gwr.v_geb_;wgnn_03b10;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Wohngebäude mit Nebennutzung (>= 50% Wohnnutzung): mit 3 bis 10 Wohnungen
+daten_gwr.v_geb_;wgnn_11b20;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Wohngebäude mit Nebennutzung (>= 50% Wohnnutzung): mit 11 bis 20 Wohnungen
+daten_gwr.v_geb_;wgnn_21p;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Wohngebäude mit Nebennutzung (>= 50% Wohnnutzung): mit 21 oder mehr Wohnungen
+daten_gwr.v_geb_;wgnn_gem;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Wohngebäude für Gemeinschaften mit Nebennutzung
+daten_gwr.v_geb_;nwg_01b02;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Nichtwohngebäude (<50% Wohnnutzung): mit 1 oder 2 Wohnungen
+daten_gwr.v_geb_;nwg_03b10;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Nichtwohngebäude (<50% Wohnnutzung): mit 3 bis 10 Wohnungen
+daten_gwr.v_geb_;nwg_11b20;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Nichtwohngebäude (<50% Wohnnutzung): mit 11 bis 20 Wohnungen
+daten_gwr.v_geb_;nwg_21p;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Nichtwohngebäude (<50% Wohnnutzung): mit 21 oder mehr Wohnungen
+daten_gwr.v_geb_;nwg_gem;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;Nichtwohngebäude (<50% Wohnnutzung) ohne Wohnungen
+daten_gwr.v_geb_;nwg_unbekannt;Gebäude nach Wohnnutzung und Anzahl der Wohnungen;unbekannt
+daten_gwr.v_geb_;nurhws;Gebäude nach Wohnsitzangabe;nur Hauptwohnsitz
+daten_gwr.v_geb_;nurnws;Gebäude nach Wohnsitzangabe;nur Nebenwohnsitz
+daten_gwr.v_geb_;hwsnws;Gebäude nach Wohnsitzangabe;mit Hauptwohnsitz und mit Nebenwohnsitz
+daten_gwr.v_geb_;ohnews;Gebäude nach Wohnsitzangabe;ohne Wohnsitzangabe
+daten_gwr.v_geb_;whg3pwfl_lt200;Wohngebäude mit drei oder mehr Wohnungen nach der Wohnfläche;unter 200m²
+daten_gwr.v_geb_;whg3pwfl_200b299;Wohngebäude mit drei oder mehr Wohnungen nach der Wohnfläche;200 bis unter 300m²
+daten_gwr.v_geb_;whg3pwfl_300b499;Wohngebäude mit drei oder mehr Wohnungen nach der Wohnfläche;300 bis unter 500m²
+daten_gwr.v_geb_;whg3pwfl_500b799;Wohngebäude mit drei oder mehr Wohnungen nach der Wohnfläche;500 bis unter 800m²
+daten_gwr.v_geb_;whg3pwfl_800b1499;Wohngebäude mit drei oder mehr Wohnungen nach der Wohnfläche;800 bis unter 1500m²
+daten_gwr.v_geb_;whg3pwfl_ge1500;Wohngebäude mit drei oder mehr Wohnungen nach der Wohnfläche;1500m² und mehr
+daten_gwr.v_geb_;whg1wfl_lt60;Wohngebäude mit einer Wohnung nach der Wohnfläche;unter 60m²
+daten_gwr.v_geb_;whg1wfl_60b89;Wohngebäude mit einer Wohnung nach der Wohnfläche;60 bis unter 90m²
+daten_gwr.v_geb_;whg1wfl_90b119;Wohngebäude mit einer Wohnung nach der Wohnfläche;90 bis unter 120m²
+daten_gwr.v_geb_;whg1wfl_120b149;Wohngebäude mit einer Wohnung nach der Wohnfläche;120 bis unter 150m²
+daten_gwr.v_geb_;whg1wfl_150b199;Wohngebäude mit einer Wohnung nach der Wohnfläche;150 bis unter 200m²
+daten_gwr.v_geb_;whg1wfl_ge200;Wohngebäude mit einer Wohnung nach der Wohnfläche;200m² und mehr
+daten_gwr.v_geb_;whg2wfl_lt120;Wohngebäude mit zwei Wohnungen nach der Wohnfläche;unter 120m²
+daten_gwr.v_geb_;whg2wfl_120b149;Wohngebäude mit zwei Wohnungen nach der Wohnfläche;120 bis unter 150m²
+daten_gwr.v_geb_;whg2wfl_150b199;Wohngebäude mit zwei Wohnungen nach der Wohnfläche;150 bis unter 200m²
+daten_gwr.v_geb_;whg2wfl_200b249;Wohngebäude mit zwei Wohnungen nach der Wohnfläche;200 bis unter 250m²
+daten_gwr.v_geb_;whg2wfl_250b299;Wohngebäude mit zwei Wohnungen nach der Wohnfläche;250 bis unter 300m²
+daten_gwr.v_geb_;whg2wfl_ge300;Wohngebäude mit zwei Wohnungen nach der Wohnfläche;300m² und mehr
+daten_gwr.v_whg_;wraum_1;Wohnungen nach Anzahl der Wohnräume;1 Wohnraum
+daten_gwr.v_whg_;wraum_2;Wohnungen nach Anzahl der Wohnräume;2 Wohnräume
+daten_gwr.v_whg_;wraum_3;Wohnungen nach Anzahl der Wohnräume;3 Wohnräume
+daten_gwr.v_whg_;wraum_4;Wohnungen nach Anzahl der Wohnräume;4 Wohnräume
+daten_gwr.v_whg_;wraum_5;Wohnungen nach Anzahl der Wohnräume;5 Wohnräume
+daten_gwr.v_whg_;wraum_ge6;Wohnungen nach Anzahl der Wohnräume;6 und mehr Wohnräume
+daten_gwr.v_whg_;wraum_unbekannt;Wohnungen nach Anzahl der Wohnräume;Wohnungen mit unbekannter Anzahl an Wohnräumen
+daten_gwr.v_whg_;fl_lt45;Wohnungen nach Wohnfläche;unter 45m²
+daten_gwr.v_whg_;fl_45b60;Wohnungen nach Wohnfläche;45 bis unter 60m²
+daten_gwr.v_whg_;fl_60b75;Wohnungen nach Wohnfläche;60 bis unter 75m²
+daten_gwr.v_whg_;fl_75b90;Wohnungen nach Wohnfläche;75 bis unter 90m²
+daten_gwr.v_whg_;fl_90b120;Wohnungen nach Wohnfläche;90 bis unter 120m²
+daten_gwr.v_whg_;fl_120b150;Wohnungen nach Wohnfläche;120 bis unter 150m²
+daten_gwr.v_whg_;fl_150b200;Wohnungen nach Wohnfläche;150m² bis unter 200m²
+daten_gwr.v_whg_;fl_ge200;Wohnungen nach Wohnfläche;200m² und mehr
+daten_gwr.v_whg_;fl_ohne;Wohnungen nach Wohnfläche;unbekannt
